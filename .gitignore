@@ -1,0 +1,13 @@
+# Ignore Virtual Environment
+venv/
+.env
+
+# Ignore Data & Database
+data/
+chroma_db/
+chroma_db_*/
+excel_reports/
+
+# Ignore System Files
+__pycache__/
+*.DS_Store
